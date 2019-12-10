@@ -1,3 +1,3 @@
 # Cricket Scorer
 
-App to do Cricket scoring
+App to do Cricket scoring.
